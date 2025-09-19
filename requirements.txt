@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+scikit-learn (sklearn)
+train_test_split
+LinearRegression
+Lasso, Ridge
+mean_squared_error, r2_score
+joblib
